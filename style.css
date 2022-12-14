@@ -13,7 +13,7 @@ header {
     background-color: burlywood;
     gap: 35px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
     border-radius: 2%;
 }
 /* .container div{
